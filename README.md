@@ -7,7 +7,7 @@
     <a href="https://t.me/dlutla">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" alt="Telegram" width="8%" style="margin: 0 10px;"/>
     </a>
-    <a href="resedovrasid@gmail.com">
+    <a href="mailto:resedovrasid@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/1920px-Gmail_icon_%282026%29.svg.png" alt="Gmail" width="8%" style="margin: 0 10px;"/>
     </a>
 </div>
