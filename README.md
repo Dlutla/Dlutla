@@ -5,6 +5,6 @@
 
 <div id="socials" allign="center">
     <a href="telegram-url">
-        <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_Messenger.png" alt="Telegram"/>
+        <img src="[https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_Messenger.png](https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original)" alt="Telegram"/>
     </a>
 </div>
